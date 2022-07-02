@@ -1,0 +1,6 @@
+mysql-connector-python
+PyMySQL
+pandas
+requests
+Scrapy
+beautifulsoup4
